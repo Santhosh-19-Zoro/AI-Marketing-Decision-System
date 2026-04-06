@@ -1,4 +1,4 @@
-# 🚀 AI Marketing Decision System
+# AI Marketing Decision System
 
 An end-to-end Machine Learning and NLP-based system designed to automate and optimize marketing decisions through customer segmentation, sentiment analysis, and intelligent business recommendations.
 
